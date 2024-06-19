@@ -16,4 +16,4 @@
 
 - Excel Dashboard for Spotify Dataset
 
-![alt text](https://github.com/kjaehnig/data-analyst-projects/blob/main/Spotify-streams/spotify-streams-2023-excel-dasboard.png?raw=true)
+![alt text](https://github.com/kjaehnig/data-analyst-projects/blob/main/Spotify-streams/spotify-streams-2023-excel-dashboard.png?raw=true)
