@@ -1,3 +1,12 @@
 online-retail-II/product_descriptions.csv
 online-retail-II/online-retail-ii-clean-rfm-workbook.xlsx
 online-retail-II/embeddings_cosine_distance_matrix.npy
+olist-brazil-data/olist_customers_dataset.csv
+olist-brazil-data/olist_geolocation_dataset.csv
+olist-brazil-data/olist_order_items_dataset.csv
+olist-brazil-data/olist_order_payments_dataset.csv
+olist-brazil-data/olist_order_reviews_dataset.csv
+olist-brazil-data/olist_orders_dataset.csv
+olist-brazil-data/olist_products_dataset.csv
+olist-brazil-data/olist_sellers_dataset.csv
+olist-brazil-data/product_category_name_translation.csv
