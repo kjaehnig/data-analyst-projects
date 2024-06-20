@@ -1,7 +1,14 @@
 ## Main repo to showcase various data analytics projects
 
 ### **Online-Retail-II**
-- Uncleaned and unprocessed dataset of product purchases across a variety of categories primarily in the UK with Customer ID, Dates, Quantities, etc.
+- Uncleaned and unprocessed dataset of product purchases across a variety of categories primarily in the UK with
+  * Customer ID
+  * Invoice Dates
+  * Quantities Purchased
+  * Unit Price
+  * Country
+  * Product ID
+  * Product Description
 - Dataset processed and cleaned using PySpark
 - Dashboard created in Tableau
   
